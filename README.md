@@ -14,7 +14,7 @@
    > 10%11 = 10
 
 ## Prime no. solution 
-	Case 1 If asked to find prime between 1 - 100
+   Case 1 If asked to find prime between 1 - 100
 		for i in range(1,100)
 			if i == 2 or i==3 or  i== 5 or i==7 : 
 				print(i)
