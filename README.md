@@ -24,4 +24,4 @@
  				
 
 ## Call by reference call by value
-![image](https://user-images.githubusercontent.com/70281178/193112834-c658a06c-7aed-4846-b74f-b81239859eba.png)
+[![image](https://user-images.githubusercontent.com/70281178/193112834-c658a06c-7aed-4846-b74f-b81239859eba.gif)](https://blog.penjee.com/wp-content/uploads/2015/02/pass-by-reference-vs-pass-by-value-animation.gif)
