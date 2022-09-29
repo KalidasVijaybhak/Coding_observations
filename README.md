@@ -24,4 +24,4 @@
  				
 
 ## Call by reference call by value
-https://twitter.com/i/status/1554730257907089417
+![image](https://user-images.githubusercontent.com/70281178/193112834-c658a06c-7aed-4846-b74f-b81239859eba.png)
