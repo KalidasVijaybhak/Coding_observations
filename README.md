@@ -48,12 +48,16 @@ x++
 using namespace std;
 
 int main()
+	
 {
     int i,j ;
 
 for(i = 0;i<2;i++){
+		    
     cout<<"\nWeek: "<<i+1<<endl;
+				
     for(j = 0;j<7;j++){
+	
            cout<<"Day: "<<j+1<<endl;
      
     }
