@@ -38,3 +38,30 @@ x++
 
 ++x 
 > value incremented and then used
+
+## Multidimensional 
+
+# Nested Loops
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int i,j ;
+
+for(i = 0;i<2;i++){
+    cout<<"\nWeek: "<<i+1<<endl;
+    for(j = 0;j<7;j++){
+           cout<<"Day: "<<j+1<<endl;
+     
+    }
+ 
+ 
+}
+}
+
+> Output
+
+![image](https://user-images.githubusercontent.com/70281178/194557338-c8016a1f-38b5-4af9-9e9a-266455960b68.png)
