@@ -66,7 +66,35 @@ x++
 
 # Terminologies
 
-##Literals
+## Literals
 
 Literals or constants are the values we write in a conventional form whose value is obvious. In contrast to variables, literals (123, 4.3, "hi") do not change in value. These are also called explicit constants or manifest constants.
 For example, const int =10; is a constant integer expression in which 10 is an integer literal.
+
+## Arguments and Parameters
+
+![image](https://user-images.githubusercontent.com/70281178/194724628-58b389bb-9d30-4f5c-bb4e-8259c2b49729.png)
+
+## Data Types
+
+![image](https://user-images.githubusercontent.com/70281178/194724724-a61de399-5c63-4d2e-8861-c6094f04bd4f.png)
+
+## Is void a data type or keyword?
+
+Void is considered a data type (for organizational purposes), but it is basically a keyword to use as a placeholder where you would put a data type, to represent "no data".
+
+## NULL
+
+null means it doesn't have a value but still you are bound to put a value which is equivalent to nothing.
+
+Let's suppose you have a variable ‘X' which stores the number of coins you have in your pocket.
+
+If X=4 , means you have 4 coins
+
+If X=0 , means you don't have any coins
+
+If X= null, means you haven't checked your pocket yet and you don't know how many coins you have, so you have made it null. It means you just don't know.
+
+If you check null==0 it will return false.
+
+Lastly, null is typically a keyword to indicate the space in memory is a pointer (reference), and that pointer is pointing to an invalid memory address (usually 0x0).
