@@ -62,3 +62,11 @@ x++
 > Output
 
 ![image](https://user-images.githubusercontent.com/70281178/194557338-c8016a1f-38b5-4af9-9e9a-266455960b68.png)
+
+
+# Terminologies
+
+##Literals
+
+Literals or constants are the values we write in a conventional form whose value is obvious. In contrast to variables, literals (123, 4.3, "hi") do not change in value. These are also called explicit constants or manifest constants.
+For example, const int =10; is a constant integer expression in which 10 is an integer literal.
