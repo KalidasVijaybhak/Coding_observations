@@ -66,6 +66,15 @@ x++
 
 # Terminologies
 
+## Variable
+
+A variable is a named memory location which temporarily stores data that can change while the program is running. A constant is a named memory location which temporarily stores data that remains the same throughout the execution of the program. The type of a variable indicates what kind of value it will store.
+
+## Identifiers
+
+"Identifiers" or "symbols" are the names you supply for variables, types, functions, and labels in your program. Identifier names must differ in spelling and case from any keywords.
+
+
 ## Literals
 
 Literals or constants are the values we write in a conventional form whose value is obvious. In contrast to variables, literals (123, 4.3, "hi") do not change in value. These are also called explicit constants or manifest constants.
@@ -76,6 +85,8 @@ For example, const int =10; is a constant integer expression in which 10 is an i
 ![image](https://user-images.githubusercontent.com/70281178/194724628-58b389bb-9d30-4f5c-bb4e-8259c2b49729.png)
 
 ## Data Types
+
+A data type, in programming, is a classification that specifies which type of value a variable has and what type of mathematical, relational or logical operations can be applied to it without causing an error.
 
 ![image](https://user-images.githubusercontent.com/70281178/194724724-a61de399-5c63-4d2e-8861-c6094f04bd4f.png)
 
