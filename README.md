@@ -131,3 +131,5 @@ In this example, the base case is n == 0, and the recursive case is n * factoria
 
 ## Better understanding
 	https://www.youtube.com/watch?v=BNeOE1qMyRA
+
+![image](https://user-images.githubusercontent.com/70281178/210373282-5101e64a-bf4e-4bd3-8099-580a80b563f6.png)
