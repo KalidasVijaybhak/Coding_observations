@@ -128,3 +128,6 @@ Here is an example of a recursive function that calculates the factorial of a nu
 			print(factorial(5))  # prints 120
 			
 In this example, the base case is n == 0, and the recursive case is n * factorial(n - 1). When the function is called with n == 5, it will compute 5 * factorial(4), which in turn will compute 4 * factorial(3), and so on, until it reaches the base case of n == 0, at which point the recursion stops and the final result is returned.
+
+## Better understanding
+	https://www.youtube.com/watch?v=BNeOE1qMyRA
