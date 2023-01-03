@@ -109,3 +109,22 @@ If X= null, means you haven't checked your pocket yet and you don't know how man
 If you check null==0 it will return false.
 
 Lastly, null is typically a keyword to indicate the space in memory is a pointer (reference), and that pointer is pointing to an invalid memory address (usually 0x0).
+
+## what is recursion
+
+Recursion is a programming technique in which a function calls itself with a simpler version of the original problem, typically as a way to solve the original problem.
+
+To use recursion, the function must have a base case, which is a condition that stops the recursion, and a recursive case, which is the function calling itself with a simplified version of the original problem. When the base case is reached, the recursion stops and the function returns a result.
+
+Here is an example of a recursive function that calculates the factorial of a number:
+
+ 
+			def factorial(n):
+			    if n == 0:
+				return 1
+			    else:
+				return n * factorial(n - 1)
+
+			print(factorial(5))  # prints 120
+			
+In this example, the base case is n == 0, and the recursive case is n * factorial(n - 1). When the function is called with n == 5, it will compute 5 * factorial(4), which in turn will compute 4 * factorial(3), and so on, until it reaches the base case of n == 0, at which point the recursion stops and the final result is returned.
